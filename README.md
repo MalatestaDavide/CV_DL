@@ -8,13 +8,13 @@ Requisito fondamentale per poter avviare il training della rete neurale è avere
 
 I comandi che vedremo in seguito sono relativi al sistema Linux.
 
-* Clone della repository 
+* Clone della repository
   * `git clone https://github.com/MalatestaDavide/CV_DL`
   
 * Si estraggono i file e si entra all'interno della cartella rinominata VASTA
   * `cd VASTA`
 
-* Creazione della cartella che conterrà i video
+* Creazione della cartella che conterrà i video (prima va fatto l'unzip di data.zip)
   * `mkdir data/MSRVTT/videos`
 
 * Download dei video
